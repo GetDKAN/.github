@@ -1,4 +1,4 @@
-<center><img src="/assets/github_org.svg" alt="DKAN | Transparency through Open Data"/></center>
+<center><img src="/assets/github_org_slogan.svg" alt="DKAN | Transparency through Open Data"/></center>
 <p></p>
 <div id="social" align="center">
   <a href="https://getdkan.com" target="_blank"><img src="https://img.shields.io/badge/Website-0077C0?style=for-the-badge&logoColor=white" alt="DKAN Website"/></a>
