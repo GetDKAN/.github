@@ -1,6 +1,4 @@
-<center><img src="/assets/github_org.svg" alt="DKAN Logo"/></center>
-<center><h3>Transparency through Open Data</h3></center>
-
+<center><img src="/assets/github_org.svg" alt="DKAN | Transparency through Open Data"/></center>
 <p></p>
 <div id="social" align="center">
   <a href="https://getdkan.com" target="_blank"><img src="https://img.shields.io/badge/Website-0077C0?style=for-the-badge&logoColor=white" alt="DKAN Website"/></a>
@@ -11,7 +9,7 @@
   &nbsp; &nbsp; &nbsp;
     <a href="https://github.com/GetDKAN/dkan/discussions" target="_blank"><img src="https://img.shields.io/badge/Discussions-0077C0?style=for-the-badge&logoColor=white" alt="DKAN Docs"/></a>
 </div>
-
+<p></p>
 
 DKAN is a powerful, community-driven open data platform that has been at the forefront of data accessibility and transparency for over a decade. As a Drupal module, DKAN leverages Drupal's robust features to create modern, standards-focused, and API-first open data catalogs for a variety of specific use cases. DKAN is proudly maintained by @CivicActions, who have been leaders in Open Source solutions for government and nonprofit organizations for 20 years.
 
